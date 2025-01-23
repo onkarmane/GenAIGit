@@ -4,7 +4,7 @@ def greet(name):
     return f"Hello, {name}hello!local1"
 
 def farewell(name):
-    return f"Goodbye, {name}hello local1!"
+    return f"Goodbye, {name}hello!"
 
 def welcome(name):
     return f"Welcome, {name}hello!local1"
@@ -15,5 +15,5 @@ if __name__ == "__main__":
     print(welcome("World"))
 # This is the last line change1111
 
-#newly added lines
+#hello world
 
