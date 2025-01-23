@@ -14,3 +14,5 @@ if __name__ == "__main__":
     print(farewell("World"))
     print(welcome("World"))
 # This is the last line change1111
+
+#newly added lines
