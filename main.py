@@ -2,12 +2,13 @@
 # This is the first line change
 def greet(name):
     return f"Hello, {name}hello local"
+    return f"Hello, {name}hello local"
 
 def farewell(name):
     return f"Goodbye, {name}hello develop"
 
 def welcome(name):
-    return f"Welcome, {name}hello!develop local"
+    return f"Welcome, {name}hello!develop local local"
 
 if __name__ == "__main__":
     print(greet("World"))
