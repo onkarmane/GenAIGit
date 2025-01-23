@@ -6,6 +6,10 @@ def greet(name):
 def farewell(name):
     return f"Goodbye, {name}!"
 
+def welcome(name):
+    return f"Welcome, {name}!"
+
 if __name__ == "__main__":
     print(greet("World"))
     print(farewell("World"))
+    print(welcome("World"))
